@@ -1,1 +1,1 @@
-# Own-code
+# brains_cnn
